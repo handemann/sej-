@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <style>
+             body{
+	     background-color:red;
+             }
+ 	     h1{
+             color:white;
+             front-size:80px;
+             text-align:center;
+             text-shadow:2px 2px 4px #000000;
+             }
+             p{
+             front-family:verdana;
+             front-size:20px;
+             }
+	  </style>
+     <title>Hans</title>
+<meta charset="UTF-8">
+</head>
+     <body>
+	  <h1>hvordan får man gratis kakao</h1>
+	  <p>5 kr. for en kop så derfor tager man et glas</p>
+	  <h2>gg</h2>
+	  <h3>gg</h3>
+    </body>
+</html>
